@@ -6,10 +6,10 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ---
 
 ## **📊 Dashboard Preview**  
-[Click to view dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
+[**Click to view the LIVE dashboard via Power BI web Link**](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
 
 <div style="display: flex; flex-direction: row;">
-  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="450" style="margin-right: 20px;">
 </div>
 
 ---
@@ -115,23 +115,6 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 
 ---
 
-## **🎯 Target Audience**  
-✅ **Data Analysts & BI Professionals** – Learn how to implement advanced Power BI techniques  
-✅ **Recruiters & Hiring Managers** – Evaluate Power BI skills with a practical case study  
-✅ **Businesses & Clients** – Gain insights into sales trends & data-driven decision-making  
-
----
-
-## **📢 Connect With Me**  
-🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/israeljosiah/)  
-🔗 **Portfolio:** [Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
-📧 **Email:** Israeljvow@gmail.com  
-
-🙌 If you find this project useful, don't forget to ⭐ **star** the repository! 🚀  
-
----
 
 ### **📌 Final Thoughts**  
 This project **bridges the gap between executive-level and operational analytics**, offering insights into how **advanced Power BI dashboards** can drive **business decisions with data**.  
-
-Looking forward to your feedback & contributions! 💡🔥
