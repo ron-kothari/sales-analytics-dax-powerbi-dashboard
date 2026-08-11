@@ -6,7 +6,7 @@ This is a sales performance dashboard I built in Power BI to practice advanced D
 [Click to **view** dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
 
 <div style="display: flex; flex-direction: row;">
-  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="800" style="margin-right: 20px;">
 </div>
 
 
