@@ -1,7 +1,7 @@
 # **Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX**  
 
 ### 📊 **Project Overview**  
-This project showcases an **Advanced Power BI Sales Dashboard**, incorporating **dynamic bookmarks, complex DAX calculations, and interactive storytelling techniques** to analyze business sales performance. Designed to **track key financial metrics**, the dashboard provides insights for both **executive-level decision-making** and **operational-level performance analysis**.  
+This project is an **Advanced Power BI Sales Dashboard**, with **dynamic bookmarks, complex DAX calculations, and interactive storytelling techniques** to analyze business sales performance. Designed to **track key financial metrics**, the dashboard provides insights for both **executive-level decision-making** and **operational-level performance analysis**.  
 
 ---
 
