@@ -115,21 +115,6 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 
 ---
 
-## **🎯 Target Audience**  
-✅ **Data Analysts & BI Professionals** – Learn how to implement advanced Power BI techniques  
-✅ **Recruiters & Hiring Managers** – Evaluate Power BI skills with a practical case study  
-✅ **Businesses & Clients** – Gain insights into sales trends & data-driven decision-making  
-
----
-
-## **📢 Connect With Me**  
-🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/israeljosiah/)  
-🔗 **Portfolio:** [Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
-📧 **Email:** Israeljvow@gmail.com  
-
-🙌 If you find this project useful, don't forget to ⭐ **star** the repository! 🚀  
-
----
 
 ### **📌 Final Thoughts**  
 This project **bridges the gap between executive-level and operational analytics**, offering insights into how **advanced Power BI dashboards** can drive **business decisions with data**.  
