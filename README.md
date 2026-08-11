@@ -18,8 +18,9 @@ An **Advanced Power BI Sales Dashboard** built to track key financial metrics an
 ---
 
 ### 🏢 **Industry Use Case**  
-Sales performance analysis is critical for organizations looking to **optimize revenue, monitor trends, and enhance strategic decision-making**. This project applies **best practices in business intelligence (BI) and data visualization** to provide actionable insights into **YoY growth, customer satisfaction, and profitability**.  
+Sales performance analysis helps organizations **optimize revenue**, **monitor trends**, and **strengthen strategic decision making**.
 
+This project applies **business intelligence best practices** and **data visualization techniques** to turn raw sales data into actionable insights on **YoY growth**, **customer satisfaction**, and **profitability**.
 ---
 
 ## **🔹 Key Features & Functionalities**  
@@ -109,13 +110,6 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 4️⃣ **Review DAX Scripts for Advanced Insights**  
 
 ---
-## Tech Stack Used
-
-- Power BI Desktop and Power BI Service, for report building and web publishing
-- DAX, for calculated measures, time intelligence, and dynamic KPIs
-- Power Query (M), for data transformation, cleansing, and shaping
-- SQL, for extracting and preprocessing source data
-- Excel, for initial dataset review and structuring before import
 
 ## Key Learnings and Takeaways
 
