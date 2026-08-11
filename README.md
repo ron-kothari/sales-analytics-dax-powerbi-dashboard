@@ -1,9 +1,12 @@
 # **Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX**  
 
 ### 📊 **Project Overview**  
-This project is an **Advanced Power BI Sales Dashboard**, with **dynamic bookmarks, complex DAX calculations, and interactive storytelling techniques** to analyze business sales performance. Designed to **track key financial metrics**, the dashboard provides insights for both **executive-level decision-making** and **operational-level performance analysis**.  
+An **Advanced Power BI Sales Dashboard** built to track key financial metrics and support data driven decision making.
 
----
+- Uses **dynamic bookmarks** for guided, interactive storytelling across the report
+- Applies **complex DAX calculations** for YoY growth, profit, and performance metrics
+- Delivers **executive level insights** for high level, business wide decision making
+- Delivers **operational level insights** for slicer driven, day to day performance tracking
 
 ## **📊 Dashboard Preview**  
 [**Click to view the LIVE dashboard via Power BI web Link**](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
@@ -106,15 +109,18 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 4️⃣ **Review DAX Scripts for Advanced Insights**  
 
 ---
+## Tech Stack Used
 
-## **🔮 Key Learnings & Takeaways**  
-✔️ **Understanding YoY Analysis** at both executive and operational levels  
-✔️ **Building Interactive Power BI Dashboards** with bookmarks & storytelling  
-✔️ **Writing Optimized DAX Measures** for business performance analysis  
-✔️ **Using REMOVEFILTERS vs ALL in DAX** for strategic reporting  
+- Power BI Desktop and Power BI Service, for report building and web publishing
+- DAX, for calculated measures, time intelligence, and dynamic KPIs
+- Power Query (M), for data transformation, cleansing, and shaping
+- SQL, for extracting and preprocessing source data
+- Excel, for initial dataset review and structuring before import
 
----
+## Key Learnings and Takeaways
 
-
-### **📌 Final Thoughts**  
-This project **bridges the gap between executive-level and operational analytics**, offering insights into how **advanced Power BI dashboards** can drive **business decisions with data**.  
+- Built YoY growth measures at two levels, one using REMOVEFILTERS for a business wide executive view, and one that responds to slicer selections for operational analysis
+- Learned when to use REMOVEFILTERS versus ALL in DAX, and how each changes the filter context for reporting
+- Designed dynamic bookmarks to create a guided, interactive storytelling flow across the dashboard
+- Wrote optimized DAX measures for gross sales, profit, and customer satisfaction scoring
+- Practiced structuring a Power BI project end to end, from raw data in Excel and SQL through Power Query transformation to final published dashboard
